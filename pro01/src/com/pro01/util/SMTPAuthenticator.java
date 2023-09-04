@@ -7,7 +7,7 @@ public class SMTPAuthenticator extends Authenticator {
 
     @Override
     protected PasswordAuthentication getPasswordAuthentication() {
-        return new PasswordAuthentication("soumunda8", "BongBonG190905^^!2");
+        return new PasswordAuthentication("soumunda8", "****************");
     }
 
 }
